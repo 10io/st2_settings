@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[before :each do
+    $0
+end]]></content>
+    <tabTrigger>beach</tabTrigger>
+    <scope>source.ruby.rspec</scope>
+    <description>before...end</description>
+</snippet>
