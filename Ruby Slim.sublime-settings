@@ -2,5 +2,6 @@
 	"extensions":
 	[
 		"emblem"
-	]
+	],
+    "tab_size": 2
 }
